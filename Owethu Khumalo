@@ -1,0 +1,11 @@
+InsuraBridge-Website/
+│
+├── index.html         (Homepage)
+├── about.html         (About Us Page)
+├── services.html      (Services Page)
+├── contact.html       (Contact Us Page)
+├── styles.css         (CSS Styles)
+├── scripts.js         (JavaScript for interactivity)
+├── images/            (Folder for images)
+│   └── logo.png
+├── README.md          (Repository description and instructions)
